@@ -12,7 +12,7 @@
   </h3>
   <h4>
     I'm currently a fullstack development senior at the brooklyn STEAM center and my plans for college are to major in either computer science or computer information systems
-  In the future I aspire to work in the tech field such as software engineer, software developer or fullstack devolper.
+  In the future I aspire to work in the tech field such as software engineer, software developer or fullstack developer.
 </h4>
 
 <h3 align = "left">
